@@ -1,0 +1,6 @@
+@а_хрень_какая_то_я_уже_устал_если_честно_HostAddress = http://localhost:5209
+
+GET {{а_хрень_какая_то_я_уже_устал_если_честно_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
